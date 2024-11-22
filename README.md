@@ -31,8 +31,8 @@ Este proyecto es la parte frontal de una aplicación de turismo que permite gest
 1. **Clona el repositorio:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd nombre-del-repositorio
+   git clone https://github.com/Mauri-Ramirez/Frontend-Turismo.git
+   cd Frontend-Turismo
 
 2. **Instala las dependencias:**
 
